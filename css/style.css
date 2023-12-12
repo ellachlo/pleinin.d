@@ -387,7 +387,7 @@
     background: url(../img/custom.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    overflow-x: hidden;
+    overflow: hidden;
 
     padding: 0px 160px;
 
