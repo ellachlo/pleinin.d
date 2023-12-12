@@ -1123,6 +1123,7 @@
 
     .m-menu-wrap .m-icon-box{
         display: flex;
+        justify-content: flex-end;
         position: absolute;
         margin-left: 20px;
         top: 100px;
